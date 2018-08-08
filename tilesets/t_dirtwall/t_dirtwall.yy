@@ -8,7 +8,7 @@
             "id": "f1f9f423-8068-4cf4-b151-7b88ec0dc63d",
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
-            "closed_edge": false,
+            "closed_edge": true,
             "name": "autotile_1",
             "tiles": [
                 1,
