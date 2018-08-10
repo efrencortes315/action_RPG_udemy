@@ -7,9 +7,10 @@ image_speed=0; //stops animation from playing so character appears to be still
 acceleration_=0.5//the underscore makes it a new variable that we can use how we want
 
 max_speed_ = 1.5
+roll_speed_ = 2;
 global.player_health = 4;	//red means global variable, which is available all throughout the program, anything has access
 direction_facing_ = dir.right;
-
+roll_direction_ = 0;
 enum player {
 move,
 sword,
