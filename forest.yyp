@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0a514b96-7280-4608-b672-05c0b9ebc48f",
+            "Value": {
+                "id": "2c4e1a0c-837a-4137-8c17-bc265bbaf44d",
+                "resourcePath": "sprites\\s_player_roll_up\\s_player_roll_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b763297-1a22-403a-b770-574331659bde",
             "Value": {
                 "id": "10d37dcd-65a7-4e4b-ac71-e880663292e7",
@@ -76,6 +84,14 @@
                 "id": "ea08d3ca-c8cf-491a-8388-0927fa8318cb",
                 "resourcePath": "views\\1174a66c-d13d-45c2-ab35-f920cc9ea755.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a37758b-71bf-44ea-8cfb-4a7e5da3ccec",
+            "Value": {
+                "id": "906e87d4-e63f-4d64-9867-30dc2addae75",
+                "resourcePath": "sprites\\s_player_roll_right\\s_player_roll_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -115,6 +131,14 @@
             "Value": {
                 "id": "0e520a1e-1a37-46b6-b71b-333d57a55b9c",
                 "resourcePath": "sprites\\s_player_attack_right\\s_player_attack_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "625d47be-6ad7-4cef-ab21-bd568966743d",
+            "Value": {
+                "id": "fff519c8-a284-491d-88b4-dd33912def44",
+                "resourcePath": "sprites\\s_player_roll_down\\s_player_roll_down.yy",
                 "resourceType": "GMSprite"
             }
         },

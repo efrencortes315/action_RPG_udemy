@@ -1,4 +1,4 @@
-/// @description move
+/// @description move (base state)
 	/// @description 
 // You can write your code in this editor
 
@@ -9,7 +9,7 @@ var _x_input = keyboard_check(vk_right)-keyboard_check(vk_left); //keyboard_chec
 var _y_input = keyboard_check(vk_down)-keyboard_check(vk_up);
 _input_direction =  point_direction(0,0,_x_input, _y_input);// takes two points in space and returns a direction
 var _attack_input = keyboard_check_pressed(vk_space); //true once, even if held, to be true again, it must be released and pressed again
-	
+var _roll_input = keyboard_check_pressed(vk_alt);
 
 
 if _x_input == 0 && _y_input ==0{
@@ -29,6 +29,10 @@ if _x_input == 0 && _y_input ==0{
 if(_attack_input == true){
 image_index = 0;
 state_= player.sword;
+}
+if(_roll_input == true){
+image_index=0;
+state_= player.roll;
 }
 
 
