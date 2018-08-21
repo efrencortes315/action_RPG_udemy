@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "4227b57b-2276-460c-8e0f-51b8efeac9db",
-            "Value": {
-                "id": "b6f669df-ce5b-4021-b8a0-1b148a2aea41",
-                "resourcePath": "objects\\o_porcupine\\o_porcupine.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4823c095-a0b6-4159-a599-8148d94f3863",
             "Value": {
                 "id": "6122bb81-a9a1-4b2c-a0b7-4e21bfebd466",
@@ -380,6 +372,14 @@
                 "id": "a7dbeec1-37d9-41cc-ac49-2d7987703cf1",
                 "resourcePath": "sprites\\s_player_attack_down\\s_player_attack_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b78fc632-b4d8-442d-acb1-826d4a9c83e7",
+            "Value": {
+                "id": "ad0bacb7-5caa-405c-92f3-de6406e09b6b",
+                "resourcePath": "objects\\o_porcupine\\o_porcupine.yy",
+                "resourceType": "GMObject"
             }
         },
         {

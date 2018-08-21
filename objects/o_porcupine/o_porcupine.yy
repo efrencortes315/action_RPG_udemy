@@ -1,18 +1,28 @@
 {
-    "id": "4227b57b-2276-460c-8e0f-51b8efeac9db",
+    "id": "b78fc632-b4d8-442d-acb1-826d4a9c83e7",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "o_porcupine",
     "eventList": [
         {
-            "id": "d8c3807f-d70f-4cde-9d6e-688b33517706",
+            "id": "306c1ded-4d33-4854-935f-d9eecf9c0c68",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4227b57b-2276-460c-8e0f-51b8efeac9db"
+            "m_owner": "b78fc632-b4d8-442d-acb1-826d4a9c83e7"
+        },
+        {
+            "id": "4ef1787c-e69f-47db-9c06-5adfbc1ea984",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 7,
+            "m_owner": "b78fc632-b4d8-442d-acb1-826d4a9c83e7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
