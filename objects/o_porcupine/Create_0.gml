@@ -1,4 +1,7 @@
 event_inherited();
+
+initialize_movement_entity(.25,.5,o_solid);
+
 enum porcupine{
 	hit,
 	idle,
