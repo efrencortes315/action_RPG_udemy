@@ -4,7 +4,7 @@ if animation_hit_frame(3){
 	var _damage = 1;
 	var _knockback = 4;
 	var _life = 1;
-	create_hitbox(s_porcupine_hitbox,x,y-8,0,_damage,[],_life,_knockback);
+	create_hitbox(s_porcupine_hitbox,x,y-8,0,_damage,[o_player],_life,_knockback);
 }
 
 show_debug_message("im here");
