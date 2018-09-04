@@ -1,2 +1,2 @@
 /// @description invincible alarm
-invincible=false;
+invincible_=false;

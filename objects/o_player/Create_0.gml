@@ -1,6 +1,6 @@
 /// @description
 initialize_movement_entity(.5,1,o_solid);
-
+initialize_hurtbox_entity();
 // You can write your code in this editor
 image_speed=0; //stops animation from playing so character appears to be still
 // speed=2; this would use the built in variable speed, set automatic movement to the right
