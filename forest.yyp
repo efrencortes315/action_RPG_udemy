@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "7c38c75d-7708-41a4-a2ec-13c2d7a4ac97",
+            "Value": {
+                "id": "3271cc20-1125-4d5c-a2a6-64df4043c8eb",
+                "resourcePath": "objects\\o_game\\o_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c3fed57-4c61-4d67-99c2-4f958215580c",
             "Value": {
                 "id": "8fac39f1-4514-49a4-9b09-2c1820d9a05b",
@@ -524,6 +532,14 @@
                 "id": "98f04fb2-22ea-4de9-86c2-e571ab96f736",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cfee8cfa-054b-44af-b037-c32b0e5944c6",
+            "Value": {
+                "id": "f4814cb0-0b0d-4a92-8a49-a89c8180d145",
+                "resourcePath": "rooms\\r_init\\r_init.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
