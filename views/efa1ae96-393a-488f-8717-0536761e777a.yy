@@ -9,7 +9,8 @@
         "b87180c0-4c4a-4020-8084-e9911c10fb34",
         "c11b7c4f-acd3-4ab1-b878-4e9031185c9a",
         "4823c095-a0b6-4159-a599-8148d94f3863",
-        "d7c22ea8-c34b-41a9-979c-8e28e2cd638e"
+        "d7c22ea8-c34b-41a9-979c-8e28e2cd638e",
+        "10431574-7f95-42ef-8c2d-fe1b874be0c9"
     ],
     "filterType": "GMScript",
     "folderName": "scripts",
