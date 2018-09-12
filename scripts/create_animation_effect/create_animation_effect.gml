@@ -15,7 +15,7 @@ _effect.sprite_index = _sprite;
 _effect.image_speed = _speed; 
 
 if(_has_depth){
-	_effect.depth = -y;	
+	_effect.depth = -_y;	
 }
 
 return _effect;

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "05cad0b4-87d2-4e3d-8b41-465ac009651c",
+            "Value": {
+                "id": "c3d0c0b9-752f-4328-8607-3004fa013fae",
+                "resourcePath": "objects\\o_hornet\\o_hornet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "09220f3b-c268-4d84-afbf-925f8da0a4a3",
             "Value": {
                 "id": "eb077446-36bc-436c-a61d-10f862d89f61",
@@ -596,6 +604,14 @@
                 "id": "f4814cb0-0b0d-4a92-8a49-a89c8180d145",
                 "resourcePath": "rooms\\r_init\\r_init.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "d04ee0b2-40b3-4006-9375-858d351f96e6",
+            "Value": {
+                "id": "b53afec1-557f-4549-929e-39e8cf9a8fcf",
+                "resourcePath": "sprites\\s_hornet_fly\\s_hornet_fly.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

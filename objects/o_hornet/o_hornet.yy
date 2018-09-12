@@ -1,23 +1,14 @@
 {
-    "id": "d152955b-b186-4702-a072-9135cb1c7392",
+    "id": "05cad0b4-87d2-4e3d-8b41-465ac009651c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_animation_effect",
+    "name": "o_hornet",
     "eventList": [
-        {
-            "id": "2bab965f-1999-4974-ab8c-952aa190024b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 7,
-            "m_owner": "d152955b-b186-4702-a072-9135cb1c7392"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "d3154f70-824e-4560-80cb-038d1d4115ca",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "d04ee0b2-40b3-4006-9375-858d351f96e6",
     "visible": true
 }
