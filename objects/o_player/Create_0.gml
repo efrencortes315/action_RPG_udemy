@@ -8,13 +8,16 @@ acceleration_=0.5//the underscore makes it a new variable that we can use how we
 
 max_speed_ = 1.5
 roll_speed_ = 2;
-global.player_health = 4;	//red means global variable, which is available all throughout the program, anything has access
 direction_facing_ = dir.right;
 roll_direction_ = 0;
 enum player {
 move,
 sword,
-roll
+roll,
+bomb,
+bow,
+found_item,
+hit
 }
 enum dir{
 	right,
@@ -22,6 +25,7 @@ enum dir{
 	left,
 	down
 }
+starting_state_ = player.move;
 state_ = player.move;
 //now we create our sprite lookup table
 sprite_[player.move,dir.right] = s_player_run_right;
@@ -38,3 +42,8 @@ sprite_[player.roll,dir.right] = s_player_roll_right;
 sprite_[player.roll,dir.up] = s_player_roll_up;
 sprite_[player.roll,dir.left] = s_player_roll_right;
 sprite_[player.roll,dir.down] = s_player_roll_down;
+
+sprite_[player.hit,dir.right] = s_player_run_right;
+sprite_[player.hit,dir.up] = s_player_run_up;
+sprite_[player.hit,dir.left] = s_player_run_right;
+sprite_[player.hit,dir.down] = s_player_run_down;

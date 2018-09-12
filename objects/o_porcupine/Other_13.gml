@@ -1,6 +1,6 @@
 /// @description Attack State
 image_speed = 0.35;
-if animation_hit_frame(3){
+if animation_hit_frame(1){
 	var _damage = 1;
 	var _knockback = 4;
 	var _life = 1;
